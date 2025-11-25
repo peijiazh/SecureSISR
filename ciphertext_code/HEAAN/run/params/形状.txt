@@ -1,0 +1,27 @@
+residual_layer.0.conv.weight
+(64, 64, 3, 3)
+(12288, 3)  change shape
+residual_layer.1.conv.weight
+(64, 64, 3, 3)
+(12288, 3)  change shape
+residual_layer.2.conv.weight
+(64, 64, 3, 3)
+(12288, 3)  change shape
+residual_layer.3.conv.weight
+(64, 64, 3, 3)
+(12288, 3)  change shape
+residual_layer.4.conv.weight
+(64, 64, 3, 3)
+(12288, 3)  change shape
+residual_layer.5.conv.weight
+(64, 64, 3, 3)
+(12288, 3)  change shape
+residual_layer.6.conv.weight
+(64, 64, 3, 3)
+(12288, 3)  change shape
+input.weight
+(64, 1, 3, 3)
+(192, 3)  change shape
+output.weight
+(1, 64, 3, 3)
+(192, 3)  change shape

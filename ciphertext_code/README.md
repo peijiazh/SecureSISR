@@ -108,6 +108,3 @@ The network follows a residual learning architecture:
 - The code uses SIMD packing to process multiple pixels simultaneously
 - Memory usage is monitored during execution
 
-## License
-
-See the main README for license information.

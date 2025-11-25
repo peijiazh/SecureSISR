@@ -88,12 +88,6 @@ The network follows a residual learning architecture:
 3. Output convolution layer (64 channels → 3 channels)
 4. Sub-pixel convolution for upsampling (2× scale factor)
 
-## Encryption Parameters
-
-- **logq**: Ciphertext modulus (default: 880)
-- **logp**: Message quantization parameter (default: 30)
-- **logn**: Log2 of number of slots (default: 14, giving 16384 slots)
-- **slots**: Number of slots = 2^logn
 
 ## Dependencies
 
